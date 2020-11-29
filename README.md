@@ -1,5 +1,6 @@
-# Git-Tutorial Yeahhhhhhh!!!
-Basic repo for learning the basics of git
+# Git-Tutorial for beginerrs
+I will show you how to do some basic and also advanced stuff with 
+git and github
 
 ## We will learn about basic git comamnds such as
 * commit with various options
