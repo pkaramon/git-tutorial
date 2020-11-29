@@ -42,3 +42,7 @@ def file_reader(filename: Path):
         return readout
     else:
         raise ValueError("file: {filename} does not exist")
+
+
+class Animal:
+    pass
