@@ -1,4 +1,4 @@
-# git-tutorial
+# Git-Tutorial Yeahhhhhhh!!!
 Basic repository for learning git
 
 ## We will learn about basic git comamnds such as
