@@ -20,3 +20,7 @@ down the line.
 
 ## Another section
 Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla 
+
+
+## We will learn also about amazing capabilities of VSCODE
+Which allows you to do many amazing and useful things
