@@ -10,6 +10,10 @@ def is_odd(x: int):
         return x % 2 == 1
 
 
+def is_even(x: int):
+    pass
+
+
 class Person:
     def __init__(self, name: str, age: int, married: bool):
         self._age = age
