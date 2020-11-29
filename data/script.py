@@ -11,7 +11,7 @@ def is_odd(x: int):
 
 
 def is_even(x: int):
-    pass
+    return not is_odd(x)
 
 
 class Person:
