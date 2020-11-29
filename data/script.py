@@ -45,4 +45,22 @@ def file_reader(filename: Path):
 
 
 class Animal:
-    pass
+    def __init__(self, name, age, makes_sound):
+        self._name = name
+        self._age = age
+        self._makes_sound = makes_sound
+
+    @property
+    def name(self):
+        return self._name
+
+    @property
+    def age(self):
+        return self._age
+
+    @age.setter
+    def age(self, value):
+        if value < self.age:
+            raise ValueError("cannot make an animal younger")
+        else:
+            self._age = value
