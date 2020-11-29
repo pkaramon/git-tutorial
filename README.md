@@ -1,5 +1,5 @@
 # Git-Tutorial Yeahhhhhhh!!!
-Basic repository for learning git
+Basic repo for learning the basics of git
 
 ## We will learn about basic git comamnds such as
 * commit with various options
