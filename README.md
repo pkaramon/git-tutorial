@@ -29,5 +29,8 @@ Which allows you to do many amazing and useful things
 ## the rebase is an very useful "alternative" to merge
 It often can make managing the projects a lot easier.
 
+## just for the sake of a merge commit :)
+This is some useless text, don't read it.
+
 ## You can contact as at
 github.com/pkaramon wg35fg@gmail.com
