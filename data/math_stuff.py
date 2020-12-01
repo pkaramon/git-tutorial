@@ -1,4 +1,5 @@
 import math
+import operator
 
 
 def add(x, y):
@@ -10,15 +11,11 @@ def multiply(x, y):
 
 
 def add_vec(u, v):
-    if len(u) != len(v):
-        raise ValueError("lengths of vectors dont match")
-    return [x + y for x, y in zip(u, v)]
+    return func_vec(u, v, operator.add)
 
 
 def mul_vec(u, v):
-    if len(u) != len(v):
-        raise ValueError("lengths of vectors dont match")
-    return [x * y for x, y in zip(u, v)]
+    return func_vec(u, v, operator.mul)
 
 
 def func_vec(u, v, func):
